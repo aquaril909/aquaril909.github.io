@@ -162,3 +162,30 @@ img {
         width: 90%;
     }
 }
+
+@media (max-width: 396px) {
+    .navbar a {
+        font-size: 0.5rem;
+    }
+
+    .aboutus {
+        height: 450px;
+    }
+
+    .ourgames h3 {
+        font-size: 1.5rem;
+        margin: 10px 0;
+    }
+
+    #contacts h1 {
+        font-size: 1.875rem;
+    }
+
+    #contacts {
+        height: 200px;
+    }
+}
+    img {
+        width: 90%;
+    }
+}
